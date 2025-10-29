@@ -1,0 +1,5 @@
+,scenario,eta,bg_std,freq,amp,mean_error_exponent,std_error_exponent,mean_detection_prob,std_detection_prob
+0,Low η / Low noise,0.1,0.2,100,1.0,6.931472e-01,0.000000e+00,0.500000,0.000000
+1,Med η / Med noise,0.3,0.5,150,1.0,6.931472e-01,0.000000e+00,0.500000,0.000000
+2,High η / High noise,0.6,1.0,100,0.8,6.931472e-01,0.000000e+00,0.500000,0.000000
+3,Very High η / Low noise,0.9,0.2,200,1.2,6.931472e-01,0.000000e+00,0.500000,0.000000
